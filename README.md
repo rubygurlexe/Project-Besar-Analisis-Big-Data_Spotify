@@ -29,10 +29,9 @@ This project dives deep into Spotify’s data to answer these questions and more
 
 ## 🧑‍🤝‍🧑 **Team Members**
 🎤 *Fill in your names here!*  
-- Member 1: [Name, Role]  
-- Member 2: [Name, Role]  
-- Member 3: [Name, Role]  
-- Member 4: [Name, Role]  
+- Tisya Melinda Shafira (202110370311157) 
+- Alfa Khaeral Ghiffari (202110370311156)  
+- Aulia Shivana Indraswari (202110370311165)   
 
 Let your team shine!
 
@@ -66,7 +65,7 @@ Let your team shine!
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/spotify-analysis.git
+   git clone https://github.com/rubygurlexe/Project-Besar-Analisis-Big-Data_Spotify.git
 2. Install Dependencies:
    ```bash
    pip install -r requirements.txt
