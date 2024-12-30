@@ -17,6 +17,7 @@ Have you ever wondered:
 This project dives deep into Spotify’s data to answer these questions and more. By analyzing audio features, popularity metrics, and genre-specific characteristics, we uncover actionable insights that resonate with the world of music.
 
 ---
+![big data drawio](https://github.com/user-attachments/assets/0c6a1849-a1bf-40e3-9940-66aca28b0638)
 
 ## 🗂️ **Repository Contents**
 
