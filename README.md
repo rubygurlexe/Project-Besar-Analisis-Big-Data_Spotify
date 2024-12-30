@@ -28,6 +28,16 @@ This project dives deep into Spotify’s data to answer these questions and more
 
 ---
 
+## Dependensi
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.3
+seaborn==0.12.2
+scikit-learn==1.2.2
+notebook==6.5.4
+jupyter==1.0.0
+requests==2.28.2
+
 ## 🧑‍🤝‍🧑 **Team Members**
 🎤 *Fill in your names here!*  
 - Tisya Melinda Shafira (202110370311157) 
